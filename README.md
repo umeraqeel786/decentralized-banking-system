@@ -1,3 +1,3 @@
-# decentralized-banking-system
+# Decentralized-banking-system
 
-GO LANG Chaincode 
+Written in GO. 
